@@ -1,0 +1,29 @@
+[
+  {
+    "name": "NeonBrowser",
+    "pkg": "com.neon.browser",
+    "apk": "NeonBrowser.apk",
+    "cat": "Browser",
+    "size": "~235 KB",
+    "desc": "Custom neon browser with ad/tracker blocking.",
+    "url": "https://github.com/ahali399/neon-store-cloud/releases/download/v1.0/NeonBrowser.apk"
+  },
+  {
+    "name": "NeonCleaner",
+    "pkg": "com.neon.cleaner",
+    "apk": "NeonCleaner.apk",
+    "cat": "Util",
+    "size": "~22 KB",
+    "desc": "Ultra-lightweight cleanup utility.",
+    "url": "https://github.com/ahali399/neon-store-cloud/releases/download/v1.0/NeonCleaner.apk"
+  },
+  {
+    "name": "NeonWater",
+    "pkg": "com.neon.water",
+    "apk": "NeonWater.apk",
+    "cat": "Util",
+    "size": "~17 KB",
+    "desc": "Daily water-intake tracker for NeonSuite.",
+    "url": "https://github.com/ahali399/neon-store-cloud/releases/download/v1.0/NeonWater.apk"
+  }
+]
