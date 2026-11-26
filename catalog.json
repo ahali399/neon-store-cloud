@@ -25,5 +25,14 @@
     "size": "~17 KB",
     "desc": "Daily water-intake tracker for NeonSuite.",
     "url": "https://github.com/ahali399/neon-store-cloud/releases/download/v1.0/NeonWater.apk"
+  },
+  {
+    "name": "NeonPlayer",
+    "pkg": "com.ali.neonplayer",
+    "apk": "NeonPlayer.apk",
+    "cat": "Media",
+    "size": "~41.1 KB",
+    "desc": "Neon audio player with playlist and sleep timer support.",
+    "url": "https://github.com/ahali399/neon-store-cloud/releases/download/v1.0/NeonPlayer.apk"
   }
 ]
