@@ -18,15 +18,6 @@
     "url": "https://github.com/ahali399/neon-store-cloud/releases/download/v1.0/NeonCleaner.apk"
   },
   {
-    "name": "NeonWater",
-    "pkg": "com.neon.water",
-    "apk": "NeonWater.apk",
-    "cat": "Util",
-    "size": "~17 KB",
-    "desc": "Daily water-intake tracker for NeonSuite.",
-    "url": "https://github.com/ahali399/neon-store-cloud/releases/download/v1.0/NeonWater.apk"
-  },
-  {
     "name": "NeonPlayer",
     "pkg": "com.ali.neonplayer",
     "apk": "NeonPlayer.apk",
@@ -34,5 +25,23 @@
     "size": "~41.1 KB",
     "desc": "Neon audio player with playlist and sleep timer support.",
     "url": "https://github.com/ahali399/neon-store-cloud/releases/download/v1.0/NeonPlayer.apk"
+  },
+  {
+    "name": "NeonStore",
+    "pkg": "com.ali.neonstore",
+    "apk": "NeonStore.apk",
+    "cat": "Util",
+    "size": "~24.7 KB",
+    "desc": "Hybrid offline and online app hub for NeonSuite.",
+    "url": "https://github.com/ahali399/neon-store-cloud/releases/download/v1.0/NeonStore.apk"
+  },
+  {
+    "name": "NeonWater",
+    "pkg": "com.neon.water",
+    "apk": "NeonWater.apk",
+    "cat": "Util",
+    "size": "~17 KB",
+    "desc": "Daily water-intake tracker for NeonSuite.",
+    "url": "https://github.com/ahali399/neon-store-cloud/releases/download/v1.0/NeonWater.apk"
   }
 ]
